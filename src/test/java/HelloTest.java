@@ -1,6 +1,5 @@
 public class HelloTest {
 
-
     public static void main(String[] args) {
         System.out.println("HelloTest");
 
@@ -8,8 +7,7 @@ public class HelloTest {
 
         //work 2
 
-       //work 3
-
+        //work 3
 
     }
 }
